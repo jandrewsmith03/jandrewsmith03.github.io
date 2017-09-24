@@ -1,21 +1,19 @@
 <nav id="sidebar-icon-links">
-  {% if site.github.repo %}
-    <a id="github-link"
-       class="icon" title="Github Project" aria-label="Github Project"
-       href="{{ site.github.repo }}">
-      {% include svg/github.svg %}
-    </a>
-    <a id="github-download-link"
-       class="icon" title="Download" aria-label="Download"
-       href="{{ site.github.repo }}/archive/v{{ site.version }}.zip">
-      {% include svg/download.svg %}
-    </a>
-  {% endif %}
 
-  <a id="subscribe-link"
-     class="icon" title="Subscribe" aria-label="Subscribe"
-     href="{{ site.baseurl }}/feed.xml">
-    {% include svg/feed.svg %}
+  <a id="github-link" class="icon" title="Andrew's Github" aria-label="Andrew's Github" href="https://github.com/jandrewsmith03">
+    {% include svg/github.svg %}
+  </a>
+
+  <a id="epic-link" class="icon" title="EPIC UChicago" aria-label="EPIC UChicago" href="https://epic.uchicago.edu/">
+    {% include svg/epic.svg %}
+  </a>
+
+  <a id="uchicago-link" class="icon" title="UChicago" aria-label="UChicago" href="https://www.uchicago.edu/">
+    {% include svg/uchicago.svg %}
+  </a>
+
+  <a id="tamu-link" class="icon" title="Texas A&amp;M University" aria-label="Texas A&amp;M University" href="https://www.tamu.edu/">
+    {% include svg/tamu.svg %}
   </a>
 
   {% comment %}
@@ -30,15 +28,6 @@
       {% assign search_page = node %}
     {% endif %}
   {% endfor %}
-
-  {% if tags_page %}
-    <a id="tags-link"
-       class="icon{% if page.url == '/tags' %} active{% endif %}"
-       title="Tags" aria-label="Tags"
-       href="{{ site.baseurl }}{{ tags_page.url }}">
-      {% include svg/tags.svg %}
-    </a>
-  {% endif %}
 
   {% if search_page %}
     <a id="search-link"
