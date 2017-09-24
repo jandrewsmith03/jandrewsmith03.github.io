@@ -3,7 +3,7 @@ layout: page
 title: About
 sidebar_link: true
 permalink: "about"
-order: 2;
+order: 2
 ---
 
 My academic background begins at [Texas A&amp;M University](http://www.tamu.edu/). In 2017, I graduated with degrees in Economics and  Applied Mathematics.
