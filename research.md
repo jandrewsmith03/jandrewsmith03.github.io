@@ -3,7 +3,7 @@ layout: page
 title: Research
 sidebar_link: true
 permalink: "research"
-order: 4
+order: 3
 ---
 
 ### How Does Mandated Volunteering Affect Total Volunteering?
