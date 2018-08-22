@@ -17,6 +17,5 @@ Download the following files to begin the data project:
 4. <a href="./data/house_chars1.txt" download>House Characteristics Data (Part 1)</a>
 <br/>
 5. <a href="./data/house_chars2.txt" download>House Characteristics Data (Part 2)</a>
-
-[//]: # (<br/>)
-[//]: # (6. <a href="./data/sample82.txt" download>House Type Data</a>)
+<br/>
+6. <a href="./data/sample82.txt" download>House Type Data</a>
