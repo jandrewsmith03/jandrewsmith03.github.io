@@ -5,7 +5,7 @@ highlighter:      rouge
 # Setup
 title:            Andrew Smith
 tagline:          'Home'
-description:      'Aspiring Economist'
+description:      'Predoctoral Fellow'
 url:              https://jandrewsmith.github.io/
 baseurl:          
                   # the optional subpath of your site, e.g. "/blog"
