@@ -3,7 +3,7 @@ layout: page
 title: Research
 sidebar_link: true
 permalink: "research"
-order: 2
+order: 3
 ---
 
 <script type="text/javascript">
