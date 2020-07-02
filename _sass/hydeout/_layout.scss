@@ -218,10 +218,6 @@ body {
     fill: rgba(255, 255, 255, 0.85);
   }
 
-  &:hover, &:focus, &.active {
-    svg { fill: #fff; }
-  }
-
   &:hover, &:focus {
     text-decoration: underline;
     &.icon {
