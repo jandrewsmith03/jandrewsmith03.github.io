@@ -10,4 +10,4 @@ I grew up in Sugar Land, Texas, a suburb of Houston. In April 2019, I married my
 
 Not long after we got married, Madi and I decided to adopt our two pups, Ollie and Mabel. They have been the perfect addition to our family!
 
-<center><img src="family.JPG" alt="My Family" width="100"></center>
+<center><img src="family.JPG" alt="My Family"></center>
