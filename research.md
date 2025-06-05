@@ -33,8 +33,7 @@ order: 3
 </style>
 
 <div class="paper">
-  <div class="paper-title">The Effects of High School Curriculum Standards Reform: Evidence from Texas</div>
-  <button class="abstract-button" onclick="toggle_visibility('abs1')">Show/Hide Abstract</button>
+  <div class="paper-title">The Effects of High School Curriculum Standards Reform: Evidence from Texas</div><button class="abstract-button" onclick="toggle_visibility('abs1')">Abstract</button>
   <div id="abs1" class="abstract-text">[Insert abstract text here]</div>
 </div>
 
