@@ -3,7 +3,7 @@ layout: page
 title: Research
 sidebar_link: true
 permalink: "research"
-order: 3 
+<!-- order: 3 
 ---
 
 <script type="text/javascript">
@@ -16,17 +16,31 @@ order: 3
 	}
 </script>
 
+<style>
+.paper-title {
+  font-weight: bold;
+  margin-top: 1em;
+}
+
+.abstract-text {
+  margin: 0.5em 0 1.5em 1em;
+  padding-left: 1em;
+  border-left: 2px solid #ccc;
+  display: none;
+}
+</style>
+
 <div class="paper">
   <div class="paper-title">The Effects of High School Curriculum Standards Reform: Evidence from Texas</div>
   <a onclick="toggle_visibility('abstract1');">Abstract</a>
+  <div id="abs1" class="abstract-text">[Insert abstract text here]</div>
 </div>
-   <p id="abstract1" style="display: none;">Testing 1</p>
 
 <div class="paper">
   <div class="paper-title">Home Town Labor Markets and Degree Choice (with Ryan Mather)</div>
   <a onclick="toggle_visibility('abstract1');">Abstract</a>
+  <div id="abs1" class="abstract-text">[Insert abstract text here]</div>
 </div>
-   <p id="abstract2" style="display: none;">Testing 2</p>
 
 
 School Accountability and Teacher Labor Markets
