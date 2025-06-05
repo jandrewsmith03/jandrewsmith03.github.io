@@ -1,8 +1,9 @@
 ---
 layout: page
 title: Research
-sidebar_link: false
+sidebar_link: true
 permalink: "research"
+order: 3
 ---
 
 <script type="text/javascript">
@@ -33,6 +34,7 @@ permalink: "research"
 
 .paper-title .coauthors {
   font-weight: normal;
+  color: #777;
 }
 
 .abstract-link-container {
@@ -54,6 +56,7 @@ permalink: "research"
   border-left: 2px solid #ccc;
   padding-left: 1em;
   display: none;
+  font-size: 0.9em;
 }
 </style>
 
@@ -95,6 +98,7 @@ permalink: "research"
     <span class="abstract-link" onclick="toggle_visibility('abs3')">Abstract</span>
     &nbsp;|&nbsp;
     <a class="abstract-link" href="../pdfs/teacher_sorting_smith.pdf" target="_blank">Paper</a>	
+	<span class="coauthors"><em>(Field Paper)</em></span>
   </div>
   <div id="abs3" class="abstract-text">
     I study the impact of school and district accountability pressures on elementary school teacher labor markets and student performance in Wisconsin. I find a strong inverse relationship between accountability scores and teacher turnover. Using a regression discontinuity design, I find limited evidence that teacher turnover discontinuously changes at any cutoff, even when conditioning on value-added. Moreover, changes in school-level value-added and student test performance appear unaffected by being on either side of a cutoff.
@@ -107,35 +111,11 @@ permalink: "research"
   <div class="paper-title">
     The Supply of Teachers and Students' Achievement <span class="coauthors"><em>(with Chao Fu, Jingnan Liu, Chris Taber, and Matthew Wiswall)</em></span>
   </div>
-  <div class="abstract-link-container">
-    <span class="abstract-link" onclick="toggle_visibility('abs4')">Abstract</span>
-  </div>
-  <div id="abs4" class="abstract-text">
-    [Insert abstract text here]
-  </div>
 </div>
 
 <div class="paper">
   <div class="paper-title">
     Global Policy Spillovers: Evidence from the Multinational Automobile Industry <span class="coauthors"><em>(with Koichiro Ito and James Sallee)</em></span>
-  </div>
-  <div class="abstract-link-container">
-    <span class="abstract-link" onclick="toggle_visibility('abs5')">Abstract</span>
-  </div>
-  <div id="abs5" class="abstract-text">
-    [Insert abstract text here]
-  </div>
-</div>
-
-<div class="paper">
-  <div class="paper-title">
-    Tuition Transparency and Postsecondary Enrollment
-  </div>
-  <div class="abstract-link-container">
-    <span class="abstract-link" onclick="toggle_visibility('abs6')">Abstract</span>
-  </div>
-  <div id="abs6" class="abstract-text">
-    [Insert abstract text here]
   </div>
 </div>
 
@@ -150,5 +130,11 @@ permalink: "research"
   </div>
   <div id="abs7" class="abstract-text">
     We evaluate the effects of the Public Education Grant (PEG) program, a long-running school accountability initiative in Texas meant to encourage students at lower-performing schools to transfer. Using a regression discontinuity design, we find substantial effects of the program on long-term outcomes like attending a Texas four-year university and pursuing a STEM degree. However, there is little evidence that these effects are driven by increases in student transferring. In fact, we find consistently null effects across a wide range of potential types of student transferring. Instead, we find evidence that the positive effects of the PEG program may be coming through efforts to improve standardized testing results at schools placed on the PEG list.
+  </div>
+</div>
+
+<div class="paper">
+  <div class="paper-title">
+    Tuition Transparency and Postsecondary Enrollment
   </div>
 </div>
