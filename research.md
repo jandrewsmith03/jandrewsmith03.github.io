@@ -69,7 +69,7 @@ order: 3
 }
 </style>
 
-<div class="section-title">Working Drafts</div>
+<div class="section-title">Working Papers</div>
 
 <div class="paper">
   <div class="paper-title">
