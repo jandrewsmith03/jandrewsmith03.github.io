@@ -35,6 +35,7 @@ order: 3
 .paper-title .coauthors {
   font-weight: normal;
   color: #777;
+  font-size: 0.9em;
 }
 
 .abstract-link-container {
@@ -49,6 +50,14 @@ order: 3
   text-decoration: underline;
   font-size: 0.95em;
   font-weight: normal;
+}
+
+.draft-note {
+  color: #777;
+  font-style: italic;
+  font-size: 0.95em;
+  text-decoration: none;
+  cursor: default;
 }
 
 .abstract-text {
@@ -69,7 +78,7 @@ order: 3
   <div class="abstract-link-container">
     <span class="abstract-link" onclick="toggle_visibility('abs1')">Abstract</span>
     &nbsp;|&nbsp;
-    <a class="abstract-link">Draft available upon request</a>	
+    <span class="draft-note">Draft available upon request</span>
   </div>
   <div id="abs1" class="abstract-text">
     This paper examines the connection between high school curriculum dynamics and postsecondary enrollment. Using a policy implemented alongside the Closing the Gaps by 2015 initiative in Texas, I analyze the impact of high school curriculum assignments on student course investments and postsecondary enrollment. I present descriptive evidence showing that this policy significantly alters how students are assigned to different curriculum standards, leads to increased enrollment in more rigorous coursework, and results in higher postsecondary enrollment and attainment across the ability spectrum. Motivated by this evidence, I estimate a dynamic schooling model of high school curriculum assignments, student course investments, and college enrollment choices. The estimates reveal that a student's ability and peers have a substantial impact on their investment in high school coursework. Using the estimated model, I simulate the effects of enforcing a uniform college preparatory curriculum. The results show heterogeneous effects across different student subpopulations, with postsecondary attendance increasing by 33 percentage points for students who would have been assigned to a lower curriculum. I also examine how changing schools’ institutional objectives to prioritize college attendance affects outcomes, finding increased postsecondary enrollment, but at the cost of higher high school dropout rates.
@@ -92,13 +101,12 @@ order: 3
 
 <div class="paper">
   <div class="paper-title">
-    School Accountability and Teacher Labor Markets
+    School Accountability and Teacher Labor Markets <span class="coauthors"><em>(Field Paper)</em></span>
   </div>
   <div class="abstract-link-container">
     <span class="abstract-link" onclick="toggle_visibility('abs3')">Abstract</span>
     &nbsp;|&nbsp;
     <a class="abstract-link" href="../pdfs/teacher_sorting_smith.pdf" target="_blank">Paper</a>	
-	<span class="coauthors"><em>(Field Paper)</em></span>
   </div>
   <div id="abs3" class="abstract-text">
     I study the impact of school and district accountability pressures on elementary school teacher labor markets and student performance in Wisconsin. I find a strong inverse relationship between accountability scores and teacher turnover. Using a regression discontinuity design, I find limited evidence that teacher turnover discontinuously changes at any cutoff, even when conditioning on value-added. Moreover, changes in school-level value-added and student test performance appear unaffected by being on either side of a cutoff.
