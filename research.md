@@ -67,10 +67,11 @@ order: 3
 <div class="paper">
   <div class="paper-title">
     Home Town Labor Markets and Degree Choice <em>(with Ryan Mather)</em>
-  </div>
   <div class="abstract-link-container">
     <span class="abstract-link" onclick="toggle_visibility('abs2')">Abstract</span>
-  </div>
+    &nbsp;|&nbsp;
+    <a class="abstract-link" href="../pdfs/major_and_industry_shares.pdf" target="_blank">Paper</a>
+  </div>  
   <div id="abs2" class="abstract-text">We demonstrate that conditions in a student’s local hometown labor market influence their course-taking choices while in high school, and also their initial and final majors when they go to attend college. As a possible mechanism to explain this, we demonstrate that growth in local relevant employment for STEM workers increases a measure of relevant wages for those workers. Next, motivated by evidence that past conditions in a student’s labor market may continue to affect a student’s present decisions, we estimate a dynamic discrete choice model in which students can respond to labor market conditions in each period, and the decisions made in one period have implications for the next. Using this model, we find that allowing students the option to pursue STEM-intensive course loads while in high school contributes to their likelihood of pursuing a STEM degree in college and increases their earnings once in the labor market. Additionally, having this course option while in high school increases the responsiveness of students’ college major choices and wages to changes in the local labor market.</div> [Paper](../pdfs/major_and_industry_shares.pdf)
 </div>
 
