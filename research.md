@@ -18,23 +18,19 @@ order: 3
 </script>
 
 <style>
-.section-title {
-  font-size: 1.25em;
-  font-weight: bold;
-  margin-top: 2em;
-  margin-bottom: 1em;
-  border-bottom: 1px solid #ccc;
-  padding-bottom: 0.25em;
-}
-
 .paper-title {
   font-weight: bold;
   margin-top: 1.5em;
 }
 
+.paper-title .coauthors {
+  font-weight: normal;
+}
+
 .abstract-link-container {
   margin-left: 1em;
   margin-top: 0.25em;
+  font-weight: normal;
 }
 
 .abstract-link {
@@ -42,13 +38,7 @@ order: 3
   cursor: pointer;
   text-decoration: underline;
   font-size: 0.95em;
-}
-
-.abstract-text {
-  margin: 0.5em 0 1.5em 2em;
-  border-left: 2px solid #ccc;
-  padding-left: 1em;
-  display: none;
+  font-weight: normal;
 }
 </style>
 
@@ -72,7 +62,7 @@ order: 3
     &nbsp;|&nbsp;
     <a class="abstract-link" href="../pdfs/major_and_industry_shares.pdf" target="_blank">Paper</a>
   </div>  
-  <div id="abs2" class="abstract-text">We demonstrate that conditions in a student’s local hometown labor market influence their course-taking choices while in high school, and also their initial and final majors when they go to attend college. As a possible mechanism to explain this, we demonstrate that growth in local relevant employment for STEM workers increases a measure of relevant wages for those workers. Next, motivated by evidence that past conditions in a student’s labor market may continue to affect a student’s present decisions, we estimate a dynamic discrete choice model in which students can respond to labor market conditions in each period, and the decisions made in one period have implications for the next. Using this model, we find that allowing students the option to pursue STEM-intensive course loads while in high school contributes to their likelihood of pursuing a STEM degree in college and increases their earnings once in the labor market. Additionally, having this course option while in high school increases the responsiveness of students’ college major choices and wages to changes in the local labor market.</div> [Paper](../pdfs/major_and_industry_shares.pdf)
+  <div id="abs2" class="abstract-text">We demonstrate that conditions in a student’s local hometown labor market influence their course-taking choices while in high school, and also their initial and final majors when they go to attend college. As a possible mechanism to explain this, we demonstrate that growth in local relevant employment for STEM workers increases a measure of relevant wages for those workers. Next, motivated by evidence that past conditions in a student’s labor market may continue to affect a student’s present decisions, we estimate a dynamic discrete choice model in which students can respond to labor market conditions in each period, and the decisions made in one period have implications for the next. Using this model, we find that allowing students the option to pursue STEM-intensive course loads while in high school contributes to their likelihood of pursuing a STEM degree in college and increases their earnings once in the labor market. Additionally, having this course option while in high school increases the responsiveness of students’ college major choices and wages to changes in the local labor market.</div>
 </div>
 
 <div class="paper">
