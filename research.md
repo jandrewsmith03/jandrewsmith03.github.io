@@ -3,7 +3,7 @@ layout: page
 title: Research
 sidebar_link: true
 permalink: "research"
-<!-- order: 3 
+order: 3 
 ---
 
 <script type="text/javascript">
@@ -17,18 +17,16 @@ permalink: "research"
 	}
 </script>
 
-<script type="text/javascript">
-	function toggle_visibility(id) {
-	    var e = document.getElementById(id);
-	    if (e.style.display === 'block') {
-	        e.style.display = 'none';
-	    } else {
-	        e.style.display = 'block';
-	    }
-	}
-</script>
-
 <style>
+.section-title {
+  font-size: 1.25em;
+  font-weight: bold;
+  margin-top: 2em;
+  margin-bottom: 1em;
+  border-bottom: 1px solid #ccc;
+  padding-bottom: 0.25em;
+}
+
 .paper-title {
   font-weight: bold;
   margin-top: 1.5em;
@@ -54,6 +52,8 @@ permalink: "research"
 }
 </style>
 
+<div class="section-title">Working Drafts</div>
+
 <div class="paper">
   <div class="paper-title">
     The Effects of High School Curriculum Standards Reform: Evidence from Texas
@@ -74,9 +74,38 @@ permalink: "research"
   <div id="abs2" class="abstract-text">[Insert abstract text here]</div>
 </div>
 
+<div class="paper">
+  <div class="paper-title">
+    School Accountability and Teacher Labor Markets
+  </div>
+  <div class="abstract-link-container">
+    <span class="abstract-link" onclick="toggle_visibility('abs3')">Abstract</span>
+  </div>
+  <div id="abs3" class="abstract-text">[Insert abstract text here]</div>
+</div>
 
-School Accountability and Teacher Labor Markets
-The Supply of Teachers and Students' Achievement (with Chao Fu, Jingnan Liu, Chris Taber, and Matthew Wiswall)
-Global Policy Spillovers: Evidence from the Multinational Automobile Industry (with Koichiro Ito and James Sallee)
-Tuition Transparency and Postsecondary Enrollment
-Student Transferring and Outcomes under the Texas Public Education Grant (with Ryan Mather).
+<div class="section-title">Works in Progress</div>
+
+<div class="paper">
+  <div class="paper-title">
+    The Supply of Teachers and Students' Achievement <em>(with Chao Fu, Jingnan Liu, Chris Taber, and Matthew Wiswall)</em>
+  </div>
+</div>
+
+<div class="paper">
+  <div class="paper-title">
+    Global Policy Spillovers: Evidence from the Multinational Automobile Industry <em>(with Koichiro Ito and James Sallee)</em>
+  </div>
+</div>
+
+<div class="paper">
+  <div class="paper-title">
+    Tuition Transparency and Postsecondary Enrollment
+  </div>
+</div>
+
+<div class="paper">
+  <div class="paper-title">
+    Student Transferring and Outcomes under the Texas Public Education Grant <em>(with Ryan Mather)</em>
+  </div>
+</div>
