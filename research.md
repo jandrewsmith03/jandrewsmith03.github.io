@@ -140,9 +140,3 @@ order: 3
     We evaluate the effects of the Public Education Grant (PEG) program, a long-running school accountability initiative in Texas meant to encourage students at lower-performing schools to transfer. Using a regression discontinuity design, we find substantial effects of the program on long-term outcomes like attending a Texas four-year university and pursuing a STEM degree. However, there is little evidence that these effects are driven by increases in student transferring. In fact, we find consistently null effects across a wide range of potential types of student transferring. Instead, we find evidence that the positive effects of the PEG program may be coming through efforts to improve standardized testing results at schools placed on the PEG list.
   </div>
 </div>
-
-<div class="paper">
-  <div class="paper-title">
-    Tuition Transparency and Postsecondary Enrollment
-  </div>
-</div>
