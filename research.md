@@ -113,20 +113,6 @@ order: 3
   </div>
 </div>
 
-<div class="section-title">Works in Progress</div>
-
-<div class="paper">
-  <div class="paper-title">
-    The Supply of Teachers and Students' Achievement <span class="coauthors"><em>(with Chao Fu, Jingnan Liu, Chris Taber, and Matthew Wiswall)</em></span>
-  </div>
-</div>
-
-<div class="paper">
-  <div class="paper-title">
-    Global Policy Spillovers: Evidence from the Multinational Automobile Industry <span class="coauthors"><em>(with Koichiro Ito and James Sallee)</em></span>
-  </div>
-</div>
-
 <div class="paper">
   <div class="paper-title">
     Student Transferring and Outcomes under the Texas Public Education Grant <span class="coauthors"><em>(with Ryan Mather)</em></span>
@@ -138,5 +124,19 @@ order: 3
   </div>
   <div id="abs7" class="abstract-text">
     We evaluate the effects of the public education grant (PEG) program, a long-running school accountability initiative in Texas meant to encourage students at lower-performing schools to transfer. Using a regression discontinuity design, we find substantial positive effects of the program on long-term outcomes. Elementary and high school students whose schools are marginally placed on the PEG list become more likely to graduate high school. Among elementary school students, we additionally see gains in Texas University attendance and rates of initially majoring in STEM. However, there is little evidence that these effects are driven by increases in student transferring. In fact, we find consistently null effects across a wide range of potential types of student transferring, even when accounting for a measure of the approximate distance students would need to travel to transfer. Instead, we find evidence that the positive effects of the PEG program may be coming through efforts to improve standardized testing results at schools placed on the PEG list. A caveat to the results from elementary schools is that, despite reason to believe that these schools are not influencing their testing results in improper ways, we do see some evidence of running variable manipulation among elementary schools.
+  </div>
+</div>
+
+<div class="section-title">Works in Progress</div>
+
+<div class="paper">
+  <div class="paper-title">
+    The Supply of Teachers and Students' Achievement <span class="coauthors"><em>(with Chao Fu, Jingnan Liu, Chris Taber, and Matthew Wiswall)</em></span>
+  </div>
+</div>
+
+<div class="paper">
+  <div class="paper-title">
+    Global Policy Spillovers: Evidence from the Multinational Automobile Industry <span class="coauthors"><em>(with Koichiro Ito and James Sallee)</em></span>
   </div>
 </div>
