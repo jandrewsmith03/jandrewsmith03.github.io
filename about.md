@@ -13,6 +13,6 @@ Not long after we got married, Madi and I decided to adopt our two pups, Mabel (
 test
 
 <div style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap;">
-  <img src="family.JPG" alt="My Family" width="100">
-  <img src="stanley.jpg" alt="My Family 2.0" width="200">
+  <img src="family.JPG" alt="My Family" width="200">
+  <img src="stanley.jpg" alt="My Family 2.0" width="400">
 </div>
