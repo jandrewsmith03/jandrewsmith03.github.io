@@ -140,3 +140,9 @@ order: 3
     Global Policy Spillovers: Evidence from the Multinational Automobile Industry <span class="coauthors"><em>(with Koichiro Ito and James Sallee)</em></span>
   </div>
 </div>
+
+<div class="paper">
+  <div class="paper-title">
+    The Role of Student Debt on Major Choice and Labor Market Outcomes <span class="coauthors"><em>(with Heather Little and Annemarie Schweinert)</em></span>
+  </div>
+</div>
