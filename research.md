@@ -137,7 +137,7 @@ order: 3
 
 <div class="paper">
   <div class="paper-title">
-    Global Policy Spillovers: Evidence from the Multinational Automobile Industry <span class="coauthors"><em>(with Koichiro Ito and James Sallee)</em></span>
+    Global Policy Spillovers: How Environmental Policies Propagate Through Global Products <span class="coauthors"><em>(with Koichiro Ito and James Sallee)</em></span>
   </div>
 </div>
 
