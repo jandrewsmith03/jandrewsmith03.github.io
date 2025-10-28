@@ -92,7 +92,7 @@ order: 3
   <div class="abstract-link-container">
     <span class="abstract-link" onclick="toggle_visibility('abs2')">Abstract</span>
     &nbsp;|&nbsp;
-    <a class="abstract-link" href="../pdfs/major_and_industry_shares.pdf" target="_blank">Paper</a>
+    <a class="abstract-link" href="../pdfs/major_and_industry_shares.pdf">Paper</a>
   </div>
   <div id="abs2" class="abstract-text">
     We demonstrate that conditions in a student's local hometown labor market influence their course-taking choices while in high school, and also their initial and final majors when they go to attend college. As a possible mechanism to explain this, we demonstrate that growth in local relevant employment for STEM workers increases a measure of relevant wages for those workers. Next, motivated by evidence that past conditions in a student's labor market may continue to affect a student's present decisions, we estimate a dynamic discrete choice model in which students can respond to labor market conditions in each period, and the decisions made in one period have implications for the next. Using this model, we find that allowing students the option to pursue STEM-intensive course loads while in high school contributes to their likelihood of pursuing a STEM degree in college and increases their earnings once in the labor market. Additionally, having this course option while in high school increases the responsiveness of students' college major choices and wages to changes in the local labor market.
@@ -106,7 +106,7 @@ order: 3
   <div class="abstract-link-container">
     <span class="abstract-link" onclick="toggle_visibility('abs3')">Abstract</span>
     &nbsp;|&nbsp;
-    <a class="abstract-link" href="../pdfs/teacher_sorting_smith.pdf" target="_blank">Paper</a>	
+    <a class="abstract-link" href="../pdfs/teacher_sorting_smith.pdf">Paper</a>	
   </div>
   <div id="abs3" class="abstract-text">
     I study the impact of school and district accountability pressures on elementary school teacher labor markets and student performance in Wisconsin. I find a strong inverse relationship between accountability scores and teacher turnover. Using a regression discontinuity design, I find limited evidence that teacher turnover discontinuously changes at any cutoff, even when conditioning on value-added. Moreover, changes in school-level value-added and student test performance appear unaffected by being on either side of a cutoff.
@@ -120,7 +120,7 @@ order: 3
   <div class="abstract-link-container">
     <span class="abstract-link" onclick="toggle_visibility('abs7')">Abstract</span>
     &nbsp;|&nbsp;
-    <a class="abstract-link" href="../pdfs/peg.pdf" target="_blank">Paper</a>		
+    <a class="abstract-link" href="../pdfs/peg.pdf">Paper</a>		
   </div>
   <div id="abs7" class="abstract-text">
     We evaluate the effects of the public education grant (PEG) program, a long-running school accountability initiative in Texas meant to encourage students at lower-performing schools to transfer. Using a regression discontinuity design, we find substantial positive effects of the program on long-term outcomes. Elementary and high school students whose schools are marginally placed on the PEG list become more likely to graduate high school. Among elementary school students, we additionally see gains in Texas University attendance and rates of initially majoring in STEM. However, there is little evidence that these effects are driven by increases in student transferring. In fact, we find consistently null effects across a wide range of potential types of student transferring, even when accounting for a measure of the approximate distance students would need to travel to transfer. Instead, we find evidence that the positive effects of the PEG program may be coming through efforts to improve standardized testing results at schools placed on the PEG list. A caveat to the results from elementary schools is that, despite reason to believe that these schools are not influencing their testing results in improper ways, we do see some evidence of running variable manipulation among elementary schools.
