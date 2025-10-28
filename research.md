@@ -73,7 +73,7 @@ order: 3
 
 <div class="paper">
   <div class="paper-title">
-    The Effects of High School Curriculum Standards Reform: Evidence from Texas
+    The Effects of High School Curriculum Standards Reform: Evidence from Texas <span class="coauthors"><em>(Job Market Paper)</em></span>
   </div>
   <div class="abstract-link-container">
     <span class="abstract-link" onclick="toggle_visibility('abs1')">Abstract</span>
