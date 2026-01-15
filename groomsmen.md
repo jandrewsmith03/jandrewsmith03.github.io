@@ -1,4 +1,5 @@
 ---
+layout: groomsmen
 title: Groomsmen Info
 sidebar_link: false
 permalink: "groomsmen"
