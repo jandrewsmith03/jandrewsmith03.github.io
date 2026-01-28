@@ -11,7 +11,7 @@ This page should answer most of your questions about Matthew and Amelia's weddin
 <details>
   <summary>Bachelor Party</summary>
   <ul>
-    <li>Date: March 20-22</li>
+    <li>Date: March 20-23</li>
     <li>Address: <a href="https://maps.app.goo.gl/kf6Qaw2kMVwfqNHcA" target="_blank">Google Map Link</a></li>
     <li>Airbnb: <a href="https://www.airbnb.com/l/DpLagCcL?s=67&unique_share_id=c3003490-e81e-4134-acfa-ef71a3c3fe15" target="_blank">Link</a></li>
   </ul>
