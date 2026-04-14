@@ -60,7 +60,7 @@ This page should answer most of your questions about Matthew and Amelia's weddin
   <summary>Wedding Rehearsal</summary>
   <ul>
     <li>Date: May 29</li>
-    <li>Time: TBD</li>
+    <li>Time: 5:00 PM</li>
     <li>Address: <a href="https://maps.app.goo.gl/GBos1dUACdz5mUDP6" target="_blank">Google Map Link</a></li>
   </ul>
 </details>
