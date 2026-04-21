@@ -94,7 +94,7 @@ order: 3
     &nbsp;|&nbsp;
     <a class="abstract-link" href="../pdfs/Global_Policy_Spillovers.pdf">Paper</a>
   </div>
-  <div id="abs1" class="abstract-text">
+  <div id="absgps" class="abstract-text">
     How should we evaluate policies enacted in one jurisdiction that affect products sold worldwide? Standard economic analysis typically focuses on domestic outcomes when assessing impacts of a domestic policy. However, in a world where multinational firms design products for global markets, policies implemented in one country can propagate internationally by inducing changes in product attributes. This mechanism, which we call *attribute propagation*, represents a potentially significant yet understudied channel through which domestic policies generate global effects through a form of cross-market cost complementarity. Accounting for attribute propagation can fundamentally reshape policy evaluation, as conventional economic analyses that abstract from this channel may significantly understate the overall effects of policies in areas including environmental regulations, safety standards, or antitrust remedies.
   </div>
 </div>
