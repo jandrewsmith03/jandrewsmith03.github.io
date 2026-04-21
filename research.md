@@ -90,7 +90,7 @@ order: 3
     Global Policy Spillovers: How Environmental Policies Propagate Through Global Products <span class="coauthors"><em>(with Koichiro Ito and James Sallee)</em></span>
   </div>
   <div class="abstract-link-container">
-    <span class="abstract-link" onclick="toggle_visibility('abs_gps')">Abstract</span>
+    <span class="abstract-link" onclick="toggle_visibility('absgps')">Abstract</span>
     &nbsp;|&nbsp;
     <a class="abstract-link" href="../pdfs/Global_Policy_Spillovers.pdf">Paper</a>
   </div>
