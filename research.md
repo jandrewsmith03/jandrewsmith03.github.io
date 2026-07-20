@@ -87,7 +87,7 @@ order: 3
 
 <div class="paper">
   <div class="paper-title">
-    Global Policy Spillovers: How Environmental Policies Propagate through Product Attributes <span class="coauthors"><em>(with Koichiro Ito and James Sallee)</em></span>
+    Global Policy Spillovers: How Environmental Policies Propagate through Product Attributes <span class="coauthors"><em>(with Koichiro Ito, Caleb Halvorson-Fried, and James Sallee)</em></span>
   </div>
   <div class="abstract-link-container">
     <span class="abstract-link" onclick="toggle_visibility('absgps')">Abstract</span>
